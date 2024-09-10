@@ -1,0 +1,15 @@
+Website URL: http://testphp.vulnweb.com/login.php
+Public IP: 150.129.135.26
+Enetred Website Hosting IP: 44.228.249.3
+Iframe Allowed: Allowed
+----------------------------------------
+Website URL: http://testphp.vulnweb.com/login.php
+Public IP: 150.129.135.26
+Entered Website Hosting IP: 44.228.249.3
+Iframe Allowed: Allowed
+----------------------------------------
+Website URL: http://testphp.vulnweb.com/login.php
+Public IP: 150.129.135.26
+Entered Website Hosting IP: 44.228.249.3
+Iframe Allowed: Allowed
+----------------------------------------
